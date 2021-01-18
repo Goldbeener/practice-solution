@@ -1,0 +1,20 @@
+{
+  "name": "y",
+  "version": "0.1.0",
+  "description": "典型场景 解决方案 最佳实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goldbeener/practice-solution.git"
+  },
+  "author": "duxin <duxin@kuaishou.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goldbeener/practice-solution/issues"
+  },
+  "homepage": "https://github.com/Goldbeener/practice-solution#readme",
+  "devDependencies": {}
+}
